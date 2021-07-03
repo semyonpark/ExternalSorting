@@ -1,0 +1,8 @@
+C:\Users\Semyon\Documents\Visual Studio 2015\Projects\ExternalSorting\ExternalSorting\bin\Debug\TestFileGenerator.exe.config
+C:\Users\Semyon\Documents\Visual Studio 2015\Projects\ExternalSorting\ExternalSorting\bin\Debug\TestFileGenerator.exe
+C:\Users\Semyon\Documents\Visual Studio 2015\Projects\ExternalSorting\ExternalSorting\bin\Debug\TestFileGenerator.pdb
+C:\Users\Semyon\Documents\Visual Studio 2015\Projects\ExternalSorting\ExternalSorting\bin\Debug\Data.dll
+C:\Users\Semyon\Documents\Visual Studio 2015\Projects\ExternalSorting\ExternalSorting\bin\Debug\Data.pdb
+C:\Users\Semyon\Documents\Visual Studio 2015\Projects\ExternalSorting\ExternalSorting\obj\Debug\TestFileGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Semyon\Documents\Visual Studio 2015\Projects\ExternalSorting\ExternalSorting\obj\Debug\TestFileGenerator.exe
+C:\Users\Semyon\Documents\Visual Studio 2015\Projects\ExternalSorting\ExternalSorting\obj\Debug\TestFileGenerator.pdb

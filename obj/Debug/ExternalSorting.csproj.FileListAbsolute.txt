@@ -1,0 +1,8 @@
+c:\users\semyon\documents\visual studio 2015\Projects\ExternalSorting\ExternalSorting\bin\Debug\ExternalSorting.exe.config
+c:\users\semyon\documents\visual studio 2015\Projects\ExternalSorting\ExternalSorting\bin\Debug\ExternalSorting.exe
+c:\users\semyon\documents\visual studio 2015\Projects\ExternalSorting\ExternalSorting\bin\Debug\ExternalSorting.pdb
+c:\users\semyon\documents\visual studio 2015\Projects\ExternalSorting\ExternalSorting\bin\Debug\Data.dll
+c:\users\semyon\documents\visual studio 2015\Projects\ExternalSorting\ExternalSorting\bin\Debug\Data.pdb
+c:\users\semyon\documents\visual studio 2015\Projects\ExternalSorting\ExternalSorting\obj\Debug\ExternalSorting.csprojResolveAssemblyReference.cache
+c:\users\semyon\documents\visual studio 2015\Projects\ExternalSorting\ExternalSorting\obj\Debug\ExternalSorting.exe
+c:\users\semyon\documents\visual studio 2015\Projects\ExternalSorting\ExternalSorting\obj\Debug\ExternalSorting.pdb
