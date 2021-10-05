@@ -123,6 +123,8 @@ namespace TestFileGenerator
         private void Test1 { 
         }
 
+
+        private void Test3 { }
     }
 
 }
