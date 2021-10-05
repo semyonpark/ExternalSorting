@@ -120,6 +120,9 @@ namespace TestFileGenerator
             return result;
         }
 
+        private void Test1 { 
+        }
+
     }
 
 }
